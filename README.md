@@ -1,6 +1,6 @@
 <h4 align="center">A warlock coder from El Salvador</h3>
 
-- 🔭 I’m currently working on [2600Hz](https://github.com/orgs/2600hz)
+- 🔭 I’m currently working at [2600Hz](https://github.com/orgs/2600hz)
 
 - 🌱 I’m currently learning **Javascript's darkest arts**
 
